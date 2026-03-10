@@ -1,7 +1,7 @@
 # Business Expense Analysis (Excel)
 
 This project presents a business expense analysis created in Microsoft Excel.
-It was developed as the **final project for the course "Kurs Tabele przestawne Excel"**.
+It was developed as the **final project for the course about pivots in Excel**.
 
 ## Project Overview
 
